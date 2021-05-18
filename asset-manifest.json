@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/shoppingapp/static/js/main.927df1fa.chunk.js",
+    "main.js.map": "/shoppingapp/static/js/main.927df1fa.chunk.js.map",
+    "runtime-main.js": "/shoppingapp/static/js/runtime-main.7548002a.js",
+    "runtime-main.js.map": "/shoppingapp/static/js/runtime-main.7548002a.js.map",
+    "static/js/2.4f3a75af.chunk.js": "/shoppingapp/static/js/2.4f3a75af.chunk.js",
+    "static/js/2.4f3a75af.chunk.js.map": "/shoppingapp/static/js/2.4f3a75af.chunk.js.map",
+    "index.html": "/shoppingapp/index.html",
+    "static/js/2.4f3a75af.chunk.js.LICENSE.txt": "/shoppingapp/static/js/2.4f3a75af.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7548002a.js",
+    "static/js/2.4f3a75af.chunk.js",
+    "static/js/main.927df1fa.chunk.js"
+  ]
+}
